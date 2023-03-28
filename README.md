@@ -1,5 +1,5 @@
 # Text analisys to infer personality
-The aim of this study is to understand if personality is a factor determining how a person writes and therefore if it
+The aim of this project is to understand if personality is a factor determining how a person writes and therefore if it
 is possible to detect personality from social media posts. The
 proposed methodology is applied on the Myers-Briggs Personality
 Type Dataset and involves the employment of the following techniques: building word clouds to find out which words are the most
